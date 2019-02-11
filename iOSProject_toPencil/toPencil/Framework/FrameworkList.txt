@@ -1,0 +1,5 @@
+
+Please download these frameworks by your self.
+We do not have licenses to include them as pre-complained frameworks.
+
+BlueSocket-masterSocket.frameworkSwiftSocket-masterSwiftSocket.framework
